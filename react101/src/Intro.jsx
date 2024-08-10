@@ -12,7 +12,7 @@ function Intro() {
       <img className="w-1/4" src="https://media1.tenor.com/m/2wPCzBrKJP8AAAAC/hyper-anime.gif" alt="hi" />
       <p className="text-xl">Today I want to show you things that I've been learned and I consider as crucial on react, I learned it from a mini bootcamp that held by <a className="text-blue-500" href="https://www.linkedin.com/company/prosigmaka/posts/?feedView=all">Prosigmaka</a><br />
       Check them out! 
-      <p className="text-xl">Lastly, this site was built with react.js and tailwind. you can check the repository on <a className="text-blue-500" href="github.com/riveong">here</a></p>
+      <p className="text-xl">Lastly, this site was built with react.js and tailwind. you can check the repository on <a className="text-blue-500" href="https://github.com/Riveong/Learn-Crucial-Part-of-ReactJS-in-5-days/tree/main">here</a></p>
       There are 5 crucial things that you need to know about react, they are:
       <ul className="list-disc list-inside">
         <li>Component</li> 
@@ -32,7 +32,7 @@ function Intro() {
       <br />
       <p>I hope you enjoy this site and happy coding! 🚀</p>
       <br/>
-      <p className="bg-gray-300 p-2">note: if you ever get confused by my code or my explanation you can check the source code <a className="text-blue-500" href="github.com/riveong">here</a></p>
+      <p className="bg-gray-300 p-2">note: if you ever get confused by my code or my explanation you can check the source code <a className="text-blue-500" href="https://github.com/Riveong/Learn-Crucial-Part-of-ReactJS-in-5-days/tree/main/react101/src/tutorial">here</a></p>
       </p>
       <br />
     </div>
